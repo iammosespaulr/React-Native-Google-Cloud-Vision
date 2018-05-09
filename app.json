@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Image Recognition",
+    "description": "App That Recognises Images via Machine Learning",
+    "slug": "ImageRecognition",
+    "privacy": "public",
+    "sdkVersion": "26.0.0",
+    "version": "6.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/app-icon.png",
+    "loading": {
+      "icon": "./assets/icons/loading-icon.png",
+      "hideExponentText": false
+    },
+    "packagerOpts": {
+      "assetExts": ["ttf", "mp4"]
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier":"com.iammosespaulr.imagerecognition"
+    },
+    "android": {
+	"package":"com.iammosespaulr.imagerecognition",
+   "versionCode" : 6}
+  }
+}

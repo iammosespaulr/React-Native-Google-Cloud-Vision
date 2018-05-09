@@ -1,0 +1,22 @@
+{
+  "name": "Image-Recognition",
+  "version": "6.0.0",
+  "description": "App That Recognises Images via Machine Learning",
+  "author": "iammosespaulr",
+  "private": false,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "art": "^0.10.2",
+    "d3": "^5.0.0",
+    "d3-array": "^1.0.0",
+    "d3-axis": "^1.0.0",
+    "d3-format": "^1.0.0",
+    "d3-path": "^1.0.0",
+    "d3-scale": "^1.0.0",
+    "d3-shape": "^1.0.0",
+    "exp": "^53.1.0",
+    "expo": "^26.0.0",
+    "react": "16.3.0-alpha.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-26.0.0.tar.gz"
+  }
+}
